@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/styles/main.css"],"names":[],"mappings":"AAAA;AACA,8DAA8D;;AAE9D;AACA,2EAA2E","file":"demo.fca9b908.css","sourcesContent":[":root {\n  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }\n\n.fontLoaded {\n  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; }\n"],"sourceRoot":""}
